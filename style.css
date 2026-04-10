@@ -3113,3 +3113,5 @@ body {
         gap: 1.5rem;
     }
 }
+/* Ensure phone number stays on one line */
+.top-phone, .footer-contact-item { white-space: nowrap !important; }
